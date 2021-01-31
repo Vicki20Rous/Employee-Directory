@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/SearchBox.css";
+import "../styles/searchForm.css";
 
 function searchForm({ handleSearchChange }) {
   return (

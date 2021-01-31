@@ -1,0 +1,17 @@
+.navBar {
+    padding: 20px 25px;
+    margin: 0 auto;
+  }
+  
+  .navBar-collapse {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .search-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }

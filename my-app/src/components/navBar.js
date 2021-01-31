@@ -1,6 +1,6 @@
 import React from "react";
 import searchForm from "./searchForm.js";
-import "../styles/Nav.css";
+import "../styles/navBar.css";
 
 function Nav({ handleSearchChange }) {
   return (

@@ -1,0 +1,8 @@
+.searchForm button {
+    border: 1px solid #101D42;
+}
+
+.searchForm button:hover {
+    background-color: #101D42;
+    color: #ffffff;
+}
