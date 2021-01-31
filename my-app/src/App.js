@@ -1,14 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-import Table from './components/Table.js';
+import React from "react";
+import Main from "./components/main";
+import Wrapper from "./components/Wrapper";
+import Header from "./components/header";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Table/>
-        <Table/>
-      </header>
+      <Wrapper>
+        <Header />
+        <Main />
+      </Wrapper>
     </div>
   );
 }
