@@ -1,17 +1,8 @@
 import React from "react";
-import Main from "./components/main";
-import Wrapper from "./components/Wrapper";
-import Header from "./components/header";
+import searchResult from "./components/searchResult";
 
 function App() {
-  return (
-    <div className="App">
-      <Wrapper>
-        <Header />
-        <Main />
-      </Wrapper>
-    </div>
-  );
+  return <searchResult />;
 }
 
 export default App;
