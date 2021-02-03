@@ -1,12 +1,12 @@
 import React, { Component } from "react";
-import API from "./utils/api";
-import Hero from "./components/Hero";
-import SearchHeadings from "./components/SearchHeadings";
-import SearchBox from "./components/SearchBox";
-import Wrapper from "./components/Wrapper";
+import API from "../utils/api";
+import Hero from "../components/Hero";
+import SearchHeadings from "../components/SearchHeadings";
+import SearchBox from "../components/SearchBox";
+import Wrapper from "../components/Wrapper";
 
 
-class ProfileDirectory extends Component {
+class EmployeeDirectory extends Component {
   state = {
     search: "",
     ascending: "",
@@ -95,4 +95,4 @@ class ProfileDirectory extends Component {
   }
 }
 
-export default ProfileDirectory;
+export default EmployeeDirectory;
