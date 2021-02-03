@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Employee-Directory/static/css/main.8eee4c24.chunk.css",
+    "main.js": "/Employee-Directory/static/js/main.c70918c4.chunk.js",
+    "main.js.map": "/Employee-Directory/static/js/main.c70918c4.chunk.js.map",
+    "runtime-main.js": "/Employee-Directory/static/js/runtime-main.ee91f07c.js",
+    "runtime-main.js.map": "/Employee-Directory/static/js/runtime-main.ee91f07c.js.map",
+    "static/js/2.5c498c90.chunk.js": "/Employee-Directory/static/js/2.5c498c90.chunk.js",
+    "static/js/2.5c498c90.chunk.js.map": "/Employee-Directory/static/js/2.5c498c90.chunk.js.map",
+    "index.html": "/Employee-Directory/index.html",
+    "static/css/main.8eee4c24.chunk.css.map": "/Employee-Directory/static/css/main.8eee4c24.chunk.css.map",
+    "static/js/2.5c498c90.chunk.js.LICENSE.txt": "/Employee-Directory/static/js/2.5c498c90.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Employee-Directory/static/media/blueangel.665e9d21.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee91f07c.js",
+    "static/js/2.5c498c90.chunk.js",
+    "static/css/main.8eee4c24.chunk.css",
+    "static/js/main.c70918c4.chunk.js"
+  ]
+}
